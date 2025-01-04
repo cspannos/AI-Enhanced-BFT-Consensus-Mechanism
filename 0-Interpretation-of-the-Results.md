@@ -1,4 +1,3 @@
-+++
 # 0-Interpretation of the Results
 
 ## 1. Model Accuracy: **55.00%**
@@ -108,4 +107,3 @@ The AI-enhanced consensus mechanism is partially functional but requires signifi
 4. Increase the consistency of consensus outcomes by reducing randomness.
 
 These steps will move the project closer to a realistic and robust consensus mechanism.
-+++
