@@ -1,4 +1,4 @@
-from models.ai_model import train_model, load_model
+from models.ai_model import train_model
 from consensus.bft import AIEnhancedBFT
 from consensus.utils import simulate_consensus
 
