@@ -1,5 +1,6 @@
 from models.ai_model import train_model, load_model
-from consensus.bft import AIEnhancedBFT, simulate_consensus
+from consensus.bft import AIEnhancedBFT
+from consensus.utils import simulate_consensus
 
 def main():
     # Train or load the AI model
